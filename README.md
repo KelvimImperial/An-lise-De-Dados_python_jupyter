@@ -1,4 +1,4 @@
-
+<img src="banner.png">
 
 Olá chamo-me Kelvim Imperial Sou Cientista de Dados. Técnico em informática por formação, permaneço estudante porque amo . Estou sempre buscando melhorar meus conhecimentos em Inteligência Artificial, Machine Learning, Deep Learning, Estatística e Análise De Dados para ter mais diversidade de conhecimento a fim de propor melhores soluções para os desafios que encontro como cientista de dados.
 
