@@ -17,3 +17,4 @@ Olá chamo-me Kelvim Imperial Sou Cientista de Dados. Técnico em informática p
 - Titanic-Ciencia De Dados-https://bityli.com/UxhJYJ
  
 - Análise Exploratoria-Covid em Angola-https://bityli.com/UTi45u
+- Ciencia De Dados-Agronegocio -https://bityli.com/uiJLhT
