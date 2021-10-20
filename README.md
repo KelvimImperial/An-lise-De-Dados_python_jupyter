@@ -18,4 +18,5 @@ Olá chamo-me Kelvim Imperial Sou Cientista de Dados. Técnico em informática p
  
 - Análise Exploratoria-Covid em Angola-https://bityli.com/UTi45u
 - Ciencia De Dados-Agronegocio -https://bityli.com/uiJLhT
-- valiação de Risco de Crédito Nubank- https://bityli.com/wMlHfK
+- Avaliação de Risco de Crédito Nubank- https://bityli.com/wMlHfK
+- Machine Learning para a Detecção do Câncer de Mama- https://bityli.com/KOeDQR
