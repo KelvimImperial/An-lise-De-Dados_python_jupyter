@@ -1,6 +1,8 @@
 <img src="banner.png">
 
-Olá chamo-me Kelvim Imperial Sou Cientista de Dados. Técnico em informática por formação, permaneço estudante porque amo . Estou sempre buscando melhorar meus conhecimentos em Inteligência Artificial, Machine Learning, Deep Learning, Estatística e Análise De Dados para ter mais diversidade de conhecimento a fim de propor melhores soluções para os desafios que encontro como cientista de dados.
+Profissional especializado em Inteligência Artificial e Automação de Processos, com experiência no desenvolvimento de chatbots inteligentes para WhatsApp, Telegram e outras plataformas.
+Atuo na criação de sistemas completos de IA que envolvem processamento de áudio, LLMs, RAG, LangChain, LangGraph, Agno e n8n, integrando dados e fluxos automatizados para otimizar operações empresariais.
+Domínio em Python e foco em transformar desafios complexos em soluções inteligentes, escaláveis e de alto impacto tecnológico.
 
 – Habilidades de comunicação, que podem incluir escrita, negociação, apresentação e ensino / orientação.
 
